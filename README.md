@@ -9,8 +9,7 @@ timphamvn33/timphamvn33 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Hi, My name is Thuong Pham
-I'm interested in traveling
-I'm almost finished learning Java in college this semester
-I will learn C program and data structure this semester 
-I'm looking to collaborate on the projects that are wrote by java 
+I'm interested in traveling, workingout and advanture
+I'm senior computer information system major at Valdosta State University
+I'm looking to collaborate on the projects that can help me to build the experience for my career in the future 
 you can reach me at timphamvn33@gmail.com
